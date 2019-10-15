@@ -1,0 +1,1 @@
+hi world, M, HP: 50, Attack: 10, Sword: item(5)
